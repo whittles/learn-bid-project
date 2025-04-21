@@ -21,6 +21,7 @@ You are tasked with analyzing a bid for your company (**Bob's Widgets**), from t
     - Use the provided file structure. 
         - Python work into the **src** folder. There is already a Jupyter notebook started.
         - PowerBI file in the **reports** folder.
+        - Python outputs need to be written to the **./data/output/** directory.
 3. Push progress and files to your branch on Git.
     - You don't need to wait until you have the final product. Push frequently as you make progress.
 
