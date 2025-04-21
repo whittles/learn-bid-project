@@ -9,7 +9,7 @@ You are tasked with analyzing a bid for your company, from the point of view of 
 - **Enhance analytical skills through bid evaluation:** Apply quantitative methods to compare carrier bids against historical baselines, calculate cost impacts, and determine optimal lane awards based on price and business rules.
 - **Gain expertise in automated reporting:** Create Python scripts to generate structured Excel outputs with multiple tabs (lane awards and bidder summaries), automating data summarization and formatting processes.
 - **Improve data visualization techniques:** Design an insightful PowerBI report with custom visuals, slicers, and a map, adhering to data storytelling principles to communicate findings effectively to stakeholders.
-- **Understand logistics and bid analysis concepts:** Explore key freight transportation concepts, such as carrier types (brokers vs. asset), historical cost baselines, and the impact of business rules on bid awards.
+- **Understand logistics and bid analysis concepts:** Explore key freight transportation concepts, such as historical cost baselines, and the impact of business rules on bid awards.
 - **Implement complex business logic:** Develop algorithms to enforce constraints, such as limiting broker awards per origin or applying incumbent pricing advantages, to optimize outcomes while meeting strategic goals.
 - **Practice version control and collaboration:** Utilize Git for version control, including cloning repositories, creating branches, and pushing changes, to simulate professional software development workflows.
 - **Cultivate problem-solving and critical thinking:** Tackle real-world logistics challenges by interpreting data, addressing bonus objectives (e.g., shadow pricing), and making data-driven decisions under constraints.
@@ -45,6 +45,11 @@ You are tasked with analyzing a bid for your company, from the point of view of 
         - Single page report, don’t use the default styling. Recommend looking at the “Storytelling with Data” book. Bonus: Look into PBI Theme Generator that gives you a theme JSON file.
 
 ## Bonus Objectives
+### Difficulty: Moderate
 1. In either analysis (Python might be easier here), implement a rule that only allows 1 Broker to win at any specific origin city to prevent multiple brokers from calling on the same trucks that artificially inflates the cost.
 2. In either analysis, implement a rule that favors incumbents by 5% to mitigate carrier churn. Hint: “shadow” pricing (ask me and take notes).
+
+### Difficulty: Hard
+3. Implement the rules as separate scenarios from the main low-cost result.
+    - Have a summary that compares the results of these scenarios.
 
