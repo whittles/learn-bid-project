@@ -19,7 +19,7 @@ You are tasked with analyzing a bid for your company (**Bob's Widgets**), from t
 1. Clone the main repository and create your own branch.
 2. Do the work.
     - Use the provided file structure. 
-        - Python work into the **src** folder.
+        - Python work into the **src** folder. There is already a Jupyter notebook started.
         - PowerBI file in the **reports** folder.
 3. Push progress and files to your branch on Git.
     - You don't need to wait until you have the final product. Push frequently as you make progress.
