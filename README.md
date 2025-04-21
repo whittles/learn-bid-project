@@ -1,7 +1,7 @@
 # Bid Analysis Project
 
 ## Summary
-You are tasked with analyzing a bid for your company, from the point of view of the shipper. Using the provided data, figure out how to ingest the data, process it, and deliver the results.
+You are tasked with analyzing a bid for your company (**Bob's Widgets**), from the point of view of the shipper. Using the provided data, figure out how to ingest the data, process it, and deliver the results.
 
 ## Learning Goals
 - **Develop proficiency in data ingestion and processing:** Learn to read, manipulate, and combine multiple data files (e.g., lane data and carrier bid CSVs) using Python and pandas, ensuring data integrity and consistency for analysis.
