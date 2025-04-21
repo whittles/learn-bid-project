@@ -18,6 +18,9 @@ You are tasked with analyzing a bid for your company, from the point of view of 
 ## Instructions
 1. Clone the main repository and create your own branch.
 2. Do the work.
+    - Use the provided file structure. 
+        - Python work into the **src** folder.
+        - PowerBI file in the **reports** folder.
 3. Push progress and files to your branch on Git.
     - You don't need to wait until you have the final product. Push frequently as you make progress.
 
