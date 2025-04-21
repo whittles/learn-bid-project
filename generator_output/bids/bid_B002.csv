@@ -1,0 +1,64 @@
+LaneID,Origin,Destination,Distance,Freight Type,CarrierID,CarrierType,BidPrice
+Lane-0001,"Chicago, IL","Atlanta, GA",700,Dry Van,B002,Broker,1124.95
+Lane-0002,"Chicago, IL","Boston, MA",1000,Dry Van,B002,Broker,1753.63
+Lane-0003,"Chicago, IL","Charlotte, NC",750,Dry Van,B002,Broker,1236.75
+Lane-0004,"Chicago, IL","Denver, CO",1000,Dry Van,B002,Broker,1994.88
+Lane-0005,"Chicago, IL","Houston, TX",1100,Dry Van,B002,Broker,1924.12
+Lane-0006,"Chicago, IL","Indianapolis, IN",180,Dry Van,B002,Broker,309.48
+Lane-0007,"Chicago, IL","Jacksonville, FL",1000,Dry Van,B002,Broker,1901.72
+Lane-0008,"Chicago, IL","Kansas City, MO",550,Dry Van,B002,Broker,1030.01
+Lane-0009,"Chicago, IL","Las Vegas, NV",1750,Dry Van,B002,Broker,3090.68
+Lane-0010,"Chicago, IL","Miami, FL",1400,Dry Van,B002,Broker,2942.64
+Lane-0011,"Chicago, IL","Minneapolis, MN",400,Dry Van,B002,Broker,772.1
+Lane-0012,"Chicago, IL","Nashville, TN",450,Dry Van,B002,Broker,985.03
+Lane-0013,"Chicago, IL","New Orleans, LA",900,Dry Van,B002,Broker,1722.24
+Lane-0014,"Chicago, IL","New York, NY",800,Dry Van,B002,Broker,1214.4
+Lane-0015,"Chicago, IL","Phoenix, AZ",1750,Dry Van,B002,Broker,2830.25
+Lane-0016,"Chicago, IL","Pittsburgh, PA",450,Dry Van,B002,Broker,873.96
+Lane-0017,"Chicago, IL","Portland, OR",2100,Dry Van,B002,Broker,3424.68
+Lane-0018,"Chicago, IL","Salt Lake City, UT",1400,Dry Van,B002,Broker,2846.2
+Lane-0019,"Chicago, IL","San Antonio, TX",1200,Dry Van,B002,Broker,2171.25
+Lane-0020,"Chicago, IL","Seattle, WA",2000,Dry Van,B002,Broker,4051.59
+Lane-0021,"Chicago, IL","St. Louis, MO",300,Dry Van,B002,Broker,506.12
+Lane-0022,"Dallas, TX","Atlanta, GA",800,Dry Van,B002,Broker,1359.96
+Lane-0023,"Dallas, TX","Boston, MA",1550,Dry Van,B002,Broker,3130.32
+Lane-0024,"Dallas, TX","Charlotte, NC",1000,Dry Van,B002,Broker,1813.47
+Lane-0025,"Dallas, TX","Denver, CO",800,Dry Van,B002,Broker,1293.7
+Lane-0026,"Dallas, TX","Houston, TX",250,Dry Van,B002,Broker,476.56
+Lane-0027,"Dallas, TX","Indianapolis, IN",900,Dry Van,B002,Broker,1353.94
+Lane-0028,"Dallas, TX","Jacksonville, FL",1000,Dry Van,B002,Broker,2097.17
+Lane-0029,"Dallas, TX","Kansas City, MO",550,Dry Van,B002,Broker,934.13
+Lane-0030,"Dallas, TX","Las Vegas, NV",1200,Dry Van,B002,Broker,2539.51
+Lane-0031,"Dallas, TX","Miami, FL",1300,Dry Van,B002,Broker,2297.12
+Lane-0032,"Dallas, TX","Minneapolis, MN",1000,Dry Van,B002,Broker,1970.29
+Lane-0033,"Dallas, TX","Nashville, TN",650,Dry Van,B002,Broker,969.86
+Lane-0034,"Dallas, TX","New Orleans, LA",500,Dry Van,B002,Broker,1023.55
+Lane-0035,"Dallas, TX","New York, NY",1550,Dry Van,B002,Broker,3050.87
+Lane-0036,"Dallas, TX","Phoenix, AZ",1050,Dry Van,B002,Broker,1552.76
+Lane-0037,"Dallas, TX","Pittsburgh, PA",1200,Dry Van,B002,Broker,2094.64
+Lane-0038,"Dallas, TX","Portland, OR",2000,Dry Van,B002,Broker,3755.79
+Lane-0039,"Dallas, TX","Salt Lake City, UT",1200,Dry Van,B002,Broker,2629.8
+Lane-0040,"Dallas, TX","San Antonio, TX",300,Dry Van,B002,Broker,484.4
+Lane-0041,"Dallas, TX","Seattle, WA",2100,Dry Van,B002,Broker,4110.38
+Lane-0042,"Dallas, TX","St. Louis, MO",600,Dry Van,B002,Broker,1202.14
+Lane-0043,"Los Angeles, CA","Atlanta, GA",2150,Dry Van,B002,Broker,3618.39
+Lane-0044,"Los Angeles, CA","Boston, MA",2900,Dry Van,B002,Broker,4641.94
+Lane-0045,"Los Angeles, CA","Charlotte, NC",2400,Dry Van,B002,Broker,3982.79
+Lane-0046,"Los Angeles, CA","Denver, CO",1050,Dry Van,B002,Broker,1604.12
+Lane-0047,"Los Angeles, CA","Houston, TX",1550,Dry Van,B002,Broker,2853.59
+Lane-0048,"Los Angeles, CA","Indianapolis, IN",2050,Dry Van,B002,Broker,3236.94
+Lane-0049,"Los Angeles, CA","Jacksonville, FL",2400,Dry Van,B002,Broker,4662.88
+Lane-0050,"Los Angeles, CA","Kansas City, MO",1600,Dry Van,B002,Broker,2571.18
+Lane-0051,"Los Angeles, CA","Las Vegas, NV",270,Dry Van,B002,Broker,428.34
+Lane-0052,"Los Angeles, CA","Miami, FL",2700,Dry Van,B002,Broker,4651.25
+Lane-0053,"Los Angeles, CA","Minneapolis, MN",1900,Dry Van,B002,Broker,3220.16
+Lane-0054,"Los Angeles, CA","Nashville, TN",2000,Dry Van,B002,Broker,3729.24
+Lane-0055,"Los Angeles, CA","New Orleans, LA",1900,Dry Van,B002,Broker,3986.67
+Lane-0056,"Los Angeles, CA","New York, NY",2800,Dry Van,B002,Broker,5667.17
+Lane-0057,"Los Angeles, CA","Phoenix, AZ",400,Dry Van,B002,Broker,663.27
+Lane-0058,"Los Angeles, CA","Pittsburgh, PA",2400,Dry Van,B002,Broker,3832.69
+Lane-0059,"Los Angeles, CA","Portland, OR",950,Dry Van,B002,Broker,1647.44
+Lane-0060,"Los Angeles, CA","Salt Lake City, UT",700,Dry Van,B002,Broker,1416.25
+Lane-0061,"Los Angeles, CA","San Antonio, TX",1350,Dry Van,B002,Broker,2399.04
+Lane-0062,"Los Angeles, CA","Seattle, WA",1200,Dry Van,B002,Broker,2425.88
+Lane-0063,"Los Angeles, CA","St. Louis, MO",1800,Dry Van,B002,Broker,3013.82

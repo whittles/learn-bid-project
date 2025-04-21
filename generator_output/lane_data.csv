@@ -1,0 +1,64 @@
+LaneID,Origin,Destination,Distance,Freight Type,Historical Cost
+Lane-0001,"Chicago, IL","Atlanta, GA",700,Dry Van,1143.84
+Lane-0002,"Chicago, IL","Boston, MA",1000,Dry Van,1816.88
+Lane-0003,"Chicago, IL","Charlotte, NC",750,Dry Van,1184.34
+Lane-0004,"Chicago, IL","Denver, CO",1000,Dry Van,1832.02
+Lane-0005,"Chicago, IL","Houston, TX",1100,Dry Van,2010.36
+Lane-0006,"Chicago, IL","Indianapolis, IN",180,Dry Van,310.61
+Lane-0007,"Chicago, IL","Jacksonville, FL",1000,Dry Van,1788.17
+Lane-0008,"Chicago, IL","Kansas City, MO",550,Dry Van,872.22
+Lane-0009,"Chicago, IL","Las Vegas, NV",1750,Dry Van,2889.05
+Lane-0010,"Chicago, IL","Miami, FL",1400,Dry Van,2395.1
+Lane-0011,"Chicago, IL","Minneapolis, MN",400,Dry Van,743.06
+Lane-0012,"Chicago, IL","Nashville, TN",450,Dry Van,789.81
+Lane-0013,"Chicago, IL","New Orleans, LA",900,Dry Van,1630.72
+Lane-0014,"Chicago, IL","New York, NY",800,Dry Van,1345.39
+Lane-0015,"Chicago, IL","Phoenix, AZ",1750,Dry Van,2829.63
+Lane-0016,"Chicago, IL","Pittsburgh, PA",450,Dry Van,760.72
+Lane-0017,"Chicago, IL","Portland, OR",2100,Dry Van,3358.82
+Lane-0018,"Chicago, IL","Salt Lake City, UT",1400,Dry Van,2655.85
+Lane-0019,"Chicago, IL","San Antonio, TX",1200,Dry Van,2044.13
+Lane-0020,"Chicago, IL","Seattle, WA",2000,Dry Van,3779.61
+Lane-0021,"Chicago, IL","St. Louis, MO",300,Dry Van,517.75
+Lane-0022,"Dallas, TX","Atlanta, GA",800,Dry Van,1502.1
+Lane-0023,"Dallas, TX","Boston, MA",1550,Dry Van,2972.16
+Lane-0024,"Dallas, TX","Charlotte, NC",1000,Dry Van,1804.49
+Lane-0025,"Dallas, TX","Denver, CO",800,Dry Van,1405.58
+Lane-0026,"Dallas, TX","Houston, TX",250,Dry Van,421.18
+Lane-0027,"Dallas, TX","Indianapolis, IN",900,Dry Van,1663.09
+Lane-0028,"Dallas, TX","Jacksonville, FL",1000,Dry Van,1823.75
+Lane-0029,"Dallas, TX","Kansas City, MO",550,Dry Van,978.26
+Lane-0030,"Dallas, TX","Las Vegas, NV",1200,Dry Van,2055.64
+Lane-0031,"Dallas, TX","Miami, FL",1300,Dry Van,2297.08
+Lane-0032,"Dallas, TX","Minneapolis, MN",1000,Dry Van,1851.79
+Lane-0033,"Dallas, TX","Nashville, TN",650,Dry Van,1155.94
+Lane-0034,"Dallas, TX","New Orleans, LA",500,Dry Van,941.84
+Lane-0035,"Dallas, TX","New York, NY",1550,Dry Van,2521.73
+Lane-0036,"Dallas, TX","Phoenix, AZ",1050,Dry Van,1772.86
+Lane-0037,"Dallas, TX","Pittsburgh, PA",1200,Dry Van,2179.89
+Lane-0038,"Dallas, TX","Portland, OR",2000,Dry Van,3434.96
+Lane-0039,"Dallas, TX","Salt Lake City, UT",1200,Dry Van,1898.78
+Lane-0040,"Dallas, TX","San Antonio, TX",300,Dry Van,512.1
+Lane-0041,"Dallas, TX","Seattle, WA",2100,Dry Van,3399.23
+Lane-0042,"Dallas, TX","St. Louis, MO",600,Dry Van,954.62
+Lane-0043,"Los Angeles, CA","Atlanta, GA",2150,Dry Van,4019.87
+Lane-0044,"Los Angeles, CA","Boston, MA",2900,Dry Van,4923.4
+Lane-0045,"Los Angeles, CA","Charlotte, NC",2400,Dry Van,4204.76
+Lane-0046,"Los Angeles, CA","Denver, CO",1050,Dry Van,1711.25
+Lane-0047,"Los Angeles, CA","Houston, TX",1550,Dry Van,2824.78
+Lane-0048,"Los Angeles, CA","Indianapolis, IN",2050,Dry Van,3887.24
+Lane-0049,"Los Angeles, CA","Jacksonville, FL",2400,Dry Van,3899.4
+Lane-0050,"Los Angeles, CA","Kansas City, MO",1600,Dry Van,2665.04
+Lane-0051,"Los Angeles, CA","Las Vegas, NV",270,Dry Van,453.12
+Lane-0052,"Los Angeles, CA","Miami, FL",2700,Dry Van,4808.12
+Lane-0053,"Los Angeles, CA","Minneapolis, MN",1900,Dry Van,3523.36
+Lane-0054,"Los Angeles, CA","Nashville, TN",2000,Dry Van,3800.67
+Lane-0055,"Los Angeles, CA","New Orleans, LA",1900,Dry Van,3505.5
+Lane-0056,"Los Angeles, CA","New York, NY",2800,Dry Van,4812.65
+Lane-0057,"Los Angeles, CA","Phoenix, AZ",400,Dry Van,748.43
+Lane-0058,"Los Angeles, CA","Pittsburgh, PA",2400,Dry Van,3931.22
+Lane-0059,"Los Angeles, CA","Portland, OR",950,Dry Van,1501.67
+Lane-0060,"Los Angeles, CA","Salt Lake City, UT",700,Dry Van,1170.6
+Lane-0061,"Los Angeles, CA","San Antonio, TX",1350,Dry Van,2427.38
+Lane-0062,"Los Angeles, CA","Seattle, WA",1200,Dry Van,2071.54
+Lane-0063,"Los Angeles, CA","St. Louis, MO",1800,Dry Van,3045.83
