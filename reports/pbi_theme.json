@@ -1,0 +1,173 @@
+{
+    "name": "Sample Brand",
+    "dataColors": [
+      "#0C2659",
+      "#589EA6",
+      "#F28F38",
+      "#D93D1A",
+      "#F2F0D8"
+    ],
+    "background": "#F2F0D8",
+    "foreground": "#0C2659",
+    "tableAccent": "#589EA6",
+    "visualStyles": {
+      "*": {
+        "*": {
+          "background": [
+            {
+              "color": { "solid": { "color": "#F2F0D8" } },
+              "transparency": 0
+            }
+          ],
+          "border": [
+            {
+              "show": true,
+              "color": { "solid": { "color": "#589EA6" } }
+            }
+          ],
+          "fontFamily": "Segoe UI",
+          "color": { "solid": { "color": "#0C2659" } }
+        },
+        "title": [
+          {
+            "show": true,
+            "fontColor": { "solid": { "color": "#0C2659" } },
+            "background": { "solid": { "color": "#F2F0D8" } },
+            "fontFamily": "Segoe UI Bold",
+            "fontSize": 12
+          }
+        ],
+        "label": [
+          {
+            "fontColor": { "solid": { "color": "#0C2659" } },
+            "fontFamily": "Segoe UI",
+            "fontSize": 10
+          }
+        ]
+      },
+      "page": {
+        "*": {
+          "background": [
+            {
+              "color": { "solid": { "color": "#F2F0D8" } },
+              "transparency": 0
+            }
+          ],
+          "outspace": [
+            {
+              "color": { "solid": { "color": "#0C2659" } },
+              "transparency": 0
+            }
+          ]
+        }
+      },
+      "card": {
+        "*": {
+          "background": [
+            {
+              "color": { "solid": { "color": "#FFFFFF" } },
+              "transparency": 0
+            }
+          ],
+          "border": [
+            {
+              "show": true,
+              "color": { "solid": { "color": "#589EA6" } }
+            }
+          ]
+        }
+      },
+      "table": {
+        "*": {
+          "grid": [
+            {
+              "gridVertical": true,
+              "gridHorizontal": true,
+              "gridColor": { "solid": { "color": "#589EA6" } }
+            }
+          ],
+          "header": [
+            {
+              "fontColor": { "solid": { "color": "#FFFFFF" } },
+              "background": { "solid": { "color": "#0C2659" } },
+              "fontFamily": "Segoe UI Bold"
+            }
+          ],
+          "values": [
+            {
+              "fontColor": { "solid": { "color": "#0C2659" } },
+              "background": { "solid": { "color": "#F2F0D8" } },
+              "fontFamily": "Segoe UI"
+            }
+          ]
+        }
+      },
+      "slicer": {
+        "*": {
+          "background": [
+            {
+              "color": { "solid": { "color": "#FFFFFF" } },
+              "transparency": 0
+            }
+          ],
+          "header": [
+            {
+              "fontColor": { "solid": { "color": "#0C2659" } },
+              "background": { "solid": { "color": "#F2F0D8" } },
+              "fontFamily": "Segoe UI Bold"
+            }
+          ],
+          "items": [
+            {
+              "fontColor": { "solid": { "color": "#0C2659" } },
+              "background": { "solid": { "color": "#FFFFFF" } },
+              "fontFamily": "Segoe UI"
+            }
+          ]
+        }
+      },
+      "barChart": {
+        "*": {
+          "dataLabels": [
+            {
+              "show": true,
+              "fontColor": { "solid": { "color": "#0C2659" } },
+              "fontFamily": "Segoe UI"
+            }
+          ]
+        }
+      },
+      "map": {
+        "*": {
+          "bubble": [
+            {
+              "fillColor": { "solid": { "color": "#F28F38" } }
+            }
+          ],
+          "callout": [
+            {
+              "fontColor": { "solid": { "color": "#0C2659" } },
+              "background": { "solid": { "color": "#F2F0D8" } }
+            }
+          ]
+        }
+      }
+    },
+    "textClasses": {
+      "title": {
+        "fontFamily": "Segoe UI Bold",
+        "fontSize": 14,
+        "color": { "solid": { "color": "#0C2659" } }
+      },
+      "label": {
+        "fontFamily": "Segoe UI",
+        "fontSize": 10,
+        "color": { "solid": { "color": "#0C2659" } }
+      },
+      "callout": {
+        "fontFamily": "Segoe UI",
+        "fontSize": 12,
+        "color": { "solid": { "color": "#0C2659" } }
+      }
+    }
+  }

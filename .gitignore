@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+*.egg-info/
+
+# Data
+!data/output/.gitkeep
+
+# Misc
+.DS_Store
+*.log
