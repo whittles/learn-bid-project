@@ -3,6 +3,24 @@
 ## Summary
 You are tasked with analyzing a bid for your company, from the point of view of the shipper. Using the provided data, figure out how to ingest the data, process it, and deliver the results.
 
+## Learning Goals
+- **Develop proficiency in data ingestion and processing:** Learn to read, manipulate, and combine multiple data files (e.g., lane data and carrier bid CSVs) using Python and pandas, ensuring data integrity and consistency for analysis.
+- **Master data modeling and relationships:** Build a functional data model in PowerBI that connects lane and bid tables, understanding how to structure relationships for effective querying and reporting.
+- **Enhance analytical skills through bid evaluation:** Apply quantitative methods to compare carrier bids against historical baselines, calculate cost impacts, and determine optimal lane awards based on price and business rules.
+- **Gain expertise in automated reporting:** Create Python scripts to generate structured Excel outputs with multiple tabs (lane awards and bidder summaries), automating data summarization and formatting processes.
+- **Improve data visualization techniques:** Design an insightful PowerBI report with custom visuals, slicers, and a map, adhering to data storytelling principles to communicate findings effectively to stakeholders.
+- **Understand logistics and bid analysis concepts:** Explore key freight transportation concepts, such as carrier types (brokers vs. asset), historical cost baselines, and the impact of business rules on bid awards.
+- **Implement complex business logic:** Develop algorithms to enforce constraints, such as limiting broker awards per origin or applying incumbent pricing advantages, to optimize outcomes while meeting strategic goals.
+- **Practice version control and collaboration:** Utilize Git for version control, including cloning repositories, creating branches, and pushing changes, to simulate professional software development workflows.
+- **Cultivate problem-solving and critical thinking:** Tackle real-world logistics challenges by interpreting data, addressing bonus objectives (e.g., shadow pricing), and making data-driven decisions under constraints.
+- **Apply professional communication standards:** Produce clear, well-documented deliverables (Python scripts, Excel files, and PowerBI reports) that meet business requirements and are suitable for stakeholder review.
+
+## Instructions
+1. Clone the main repository and create your own branch.
+2. Do the work.
+3. Push progress and files to your branch on Git.
+    - You don't need to wait until you have the final product. Push frequently as you make progress.
+
 ## Basic Requirements / Deliverables
 - Python script that produces an output excel file showing:
     - The lane detail and the winning carrier. Each lane should only be represented in a single row.
@@ -29,3 +47,4 @@ You are tasked with analyzing a bid for your company, from the point of view of 
 ## Bonus Objectives
 1. In either analysis (Python might be easier here), implement a rule that only allows 1 Broker to win at any specific origin city to prevent multiple brokers from calling on the same trucks that artificially inflates the cost.
 2. In either analysis, implement a rule that favors incumbents by 5% to mitigate carrier churn. Hint: “shadow” pricing (ask me and take notes).
+
