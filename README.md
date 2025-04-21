@@ -45,7 +45,9 @@ You are tasked with analyzing a bid for your company, from the point of view of 
             - Impact vs historical baseline
             - Map
         - Two slicers that make sense given the data
-        - Single page report, don’t use the default styling. Recommend looking at the “Storytelling with Data” book. Bonus: Look into PBI Theme Generator that gives you a theme JSON file.
+        - Single page report, don’t use the default styling. Recommend looking at the “Storytelling with Data” book.
+        - Logo provided in the **img** folder, include it on the report.
+        - Theme JSON file provided in the **reports** folder.
 
 ## Bonus Objectives
 ### Difficulty: Moderate
